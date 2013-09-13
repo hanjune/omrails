@@ -10,6 +10,9 @@ $navbarBackground: white;
 @import 'bootstrap';
 @import 'bootstrap-responsive';
 
+.sexy_body{
+   margin-top: 60px;
+   }
 .navbar-inner {
    @include box-shadow(none !important);
    border: 0;
